@@ -1,10 +1,7 @@
 Frequency detector:
 
-Use an ADXL345 accelerometer to detect sound waves propagating
-through a solid medium.  The program currently detects a fixed
-200hz frequency, but it's possible to change the target frequency
-by reconfiguring the accelerometer's sample rate and the
-divisor of the StreamingGoertzel object.
+Use an ADXL345 accelerometer to detect a 200hz sound wave
+propagating through a solid medium.
 
 This program is part of a bigger project - a strange gadge to
 detect when a CNC router's bit is touching the workpiece.  The gadget
