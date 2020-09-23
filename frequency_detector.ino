@@ -1,5 +1,5 @@
 
-#include "josh-adxl345.h"
+#include "josh-adxl345.hpp"
 #include "streaming-goertzel.hpp"
 
 #define SAMPLING_FREQUENCY 1600
