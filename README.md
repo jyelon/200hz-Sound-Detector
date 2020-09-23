@@ -1,4 +1,4 @@
-Frequency detector:
+200hz sound detector:
 
 Use an ADXL345 accelerometer to detect a 200hz sound wave
 propagating through a solid medium.
